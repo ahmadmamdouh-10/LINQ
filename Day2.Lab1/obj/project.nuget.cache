@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "olKHBIuYgDzHE8DIMuUtgulM8gtTlOn7NBMMQGEVmhRXluHy3GgH16MpdpF1z11xbmjAbkqG80SmD0az5uQ4Ng==",
+  "success": true,
+  "projectFilePath": "H:\\CS\\iti\\.Net\\LINQ & EF\\Day2\\Labs\\Day2.Lab1\\Day2.Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a-mamdouh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
